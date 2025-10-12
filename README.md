@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 💻 Facebook：<a href="https://www.facebook.com/profile.php?id=100087554907925" target="_blank">Facebook</a>
 - 💻 ins：<a href="https://www.instagram.com/lingshu1106/" target="_blank">ins</a>
 - 💻 bilibili：<a href="https://space.bilibili.com/451551665" target="_blank">bilibili</a>
+- 💻 豆瓣：<a href="https://www.douban.com/people/188211304" target="_blank">bilibili</a>
 - 👨‍💻 关于我：<a href="https://space.bilibili.com/451551665" target="_blank">19 线程序员小 UP</a>
 - 🏡 作品：<a href="https://blog.csdn.net/RONNIE_Zz" target="_blank">blog我的博客(大部分博文和资源)</a> | <a href="https://www.douyin.com/user/MS4wLjABAAAAm2BN913ma0vwUkt5-h_XSQ6PebX4zZLZ5MBR2LelS_c" target="_blank">vlog日常</a> | <a href="https://www.cnblogs.com/zhou1106/gallery/image/406245.html" target="_blank">resource免费资源都在公众号cxyy1106</a> | <a href="https://github.com/zzylingshu" target="_blank">求星星 ✨</a>
 - 🌱 联系我：<a href="https://www.cnblogs.com/zhou1106/gallery/image/406245.html" target="_blank">公众号cxyy1106</a>
