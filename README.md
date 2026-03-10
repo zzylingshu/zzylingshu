@@ -29,14 +29,4 @@ Here are some ideas to get you started:
 - 👬 QQ 千人编程交流群：137620356 <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=uEngWPKM1BesuUlRH2e86AoDorOSn70t&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="公众号" title="公众号"></a>
 - 刷题：<a href="https://leetcode-cn.com/u/ronniezhou/" target="_blank">力扣</a>
 - 脚本：<a href="https://greasyfork.org/zh-CN/users/671521-%E4%BC%9A%E5%8F%91%E5%85%89%E7%9A%84%E4%BD%A0" target="_blank">Greasy Fork</a>
-## 今年汇总 
-<a href="https://github.com/zzylingshu">
-<div align="right"><img align="right" src="https://moe-counter.glitch.me/get/@xiaozhu2007?theme=rule34" alt="灵舒 的 首页访问次数(旧版)"></div>
 
-  <img align="center" height="137px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zzylingshu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-
-</a>
-
-<a href="https://github.com/zzylingshu">
-  <img align="center" height="137px" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzylingshu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</a>
