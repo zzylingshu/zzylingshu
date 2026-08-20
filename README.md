@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallfawn&layout=compact)](https://github.com/smallfawn)
 
+![](https://count.getloli.com/get/@smallfawn)
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 ## 我是灵舒🐟
 - 🐧 编程知识博主
 - 💻 Facebook：<a href="https://www.facebook.com/profile.php?id=100087554907925" target="_blank">Facebook</a>
